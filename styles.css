@@ -200,9 +200,11 @@ button {
   color: white;
   background-color: rgb(148, 35, 35);
   margin-left: 25px;
+  margin-bottom: 5px;
 }
 td {
   padding: 10px;
+ 
 }
 tr {
   display: table-row;
